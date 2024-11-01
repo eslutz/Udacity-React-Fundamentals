@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Udacity JavaScript Expressions with JSX",
+  "short_name": "Passing Data",
+  "name": "Udacity Passing Data I",
   "icons": [
     {
       "src": "favicon.ico",
