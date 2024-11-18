@@ -1,7 +1,7 @@
 {
-  "name": "managing-state",
+  "name": "controlled-components",
   "version": "1.0.0",
-  "description": "Udacity Managing State exercises.",
+  "description": "Udacity Controlled Components I exercises.",
   "private": true,
   "type": "module",
   "scripts": {
