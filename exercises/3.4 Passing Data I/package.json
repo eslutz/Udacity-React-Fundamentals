@@ -1,7 +1,7 @@
 {
   "name": "passing-data",
   "version": "1.0.0",
-  "description": "Part 1 of the Udacity Passing Data exercises.",
+  "description": "Part 1 of the Udacity Passing Data exercise.",
   "private": true,
   "type": "module",
   "scripts": {

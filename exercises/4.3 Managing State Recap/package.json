@@ -1,7 +1,7 @@
 {
-  "name": "all-together",
+  "name": "managing-state",
   "version": "1.0.0",
-  "description": "Udacity All Together exercise.",
+  "description": "Udacity Managing State Recap exercise.",
   "private": true,
   "type": "module",
   "scripts": {

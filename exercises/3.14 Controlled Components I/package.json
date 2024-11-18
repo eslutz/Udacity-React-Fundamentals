@@ -1,7 +1,7 @@
 {
   "name": "controlled-components",
   "version": "1.0.0",
-  "description": "Udacity Controlled Components I exercises.",
+  "description": "Udacity Controlled Components I exercise.",
   "private": true,
   "type": "module",
   "scripts": {

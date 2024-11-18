@@ -1,7 +1,7 @@
 {
   "name": "javascript-expressions-with-jsx",
   "version": "1.0.0",
-  "description": "Udacity JavaScript Expressions with JSX exercises.",
+  "description": "Udacity JavaScript Expressions with JSX exercise.",
   "private": true,
   "type": "module",
   "scripts": {
