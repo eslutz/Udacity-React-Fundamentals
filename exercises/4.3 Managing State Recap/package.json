@@ -1,7 +1,7 @@
 {
   "name": "managing-state",
   "version": "1.0.0",
-  "description": "Udacity Managing State Recap exercise.",
+  "description": "Udacity React Fundamentals Managing State Recap exercise.",
   "private": true,
   "type": "module",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "side-effect-cleanup",
   "version": "1.0.0",
-  "description": "Udacity Side Effect Cleanup exercise.",
+  "description": "Udacity React Fundamentals Side Effect Cleanup exercise.",
   "private": true,
   "type": "module",
   "scripts": {

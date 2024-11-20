@@ -1,7 +1,7 @@
 {
-  "name": "javascript-expressions-with-jsx",
+  "name": "contact-manager",
   "version": "1.0.0",
-  "description": "Udacity React Fundamentals JavaScript Expressions with JSX exercise.",
+  "description": "Udacity React Fundamentals Contact Manager app.",
   "private": true,
   "type": "module",
   "scripts": {
@@ -24,8 +24,10 @@
   },
   "homepage": "https://github.com/eslutz/Udacity-React-Fundamentals#readme",
   "dependencies": {
+    "form-serialize": "^0.7.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
@@ -37,6 +39,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.12.0",
+    "prop-types": "^15.8.1",
     "vite": "^5.4.11"
   }
 }

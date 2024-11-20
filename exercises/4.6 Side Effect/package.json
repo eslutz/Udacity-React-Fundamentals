@@ -1,7 +1,7 @@
 {
   "name": "side-effect",
   "version": "1.0.0",
-  "description": "Udacity Side Effect exercise.",
+  "description": "Udacity React Fundamentals Side Effect exercise.",
   "private": true,
   "type": "module",
   "scripts": {
